@@ -1,0 +1,4 @@
+.vscode
+ambiente
+db.sqlite
+__pycache__
